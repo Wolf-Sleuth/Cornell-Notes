@@ -1,0 +1,1 @@
+This will be a small python app for the purpose of taking cornell notes, using tkinter.
